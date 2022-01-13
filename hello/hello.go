@@ -1,7 +1,6 @@
 /*
 Install Go ✅
 Tutorial - getting started ✅
-Tutorial - create a module
 */
 
 package main
